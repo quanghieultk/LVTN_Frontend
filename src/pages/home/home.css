@@ -1,0 +1,9 @@
+
+@media only screen and (max-width: 955px) {
+    .sideBar {
+      display: none;
+    }
+    .rightBar {
+      display: none;
+    }
+  }

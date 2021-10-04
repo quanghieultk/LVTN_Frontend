@@ -1,0 +1,11 @@
+.root {
+    max-width: 100%;
+    margin-bottom: 1%;
+}
+.post{
+    justify-content: center;
+    padding: 0 !important;
+}
+.ant-modal-body{
+    height: "50vh";
+}

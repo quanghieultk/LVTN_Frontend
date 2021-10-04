@@ -1,0 +1,8 @@
+export const postConstants = {
+    RESET_POST: 'RESET_POST',
+    LIKE_POST: 'LIKE_POST',
+    DELETE_POST: 'DELETE_POST',
+    CREATE_POST: 'CREATE_POST',
+    INIT_POST_LIST: 'INIT_POST_LIST',
+    ADD_POST_LIST: 'ADD_POST_LIST'
+};
